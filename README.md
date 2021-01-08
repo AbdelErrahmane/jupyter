@@ -1,2 +1,2 @@
 # jupyter
-les fichier jupyter du Web Mining
+les fichiers jupyter pour tou les TP Web Mining du Web Mining
